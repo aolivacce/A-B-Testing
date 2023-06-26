@@ -30,5 +30,5 @@ This repository contains a collection of A/B testing projects conducted using bo
 10. Bootstrapping the difference again
 11. Conclusion
 
-View project [here]()!
+View project [here](https://github.com/aolivacce/A-B-Testing/blob/main/mobilegametesting.ipynb)!
 
