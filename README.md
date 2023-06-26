@@ -14,4 +14,21 @@ This repository contains a collection of A/B testing projects conducted using bo
 
 **Visualization and Reporting:** The repository emphasizes the importance of data visualization and reporting in conveying the results of A/B tests effectively. The projects include visualizations such as histograms, bar charts, line plots, and confidence interval plots, enabling clear communication of findings.
 
-**Open-Source and Collaborative:** The repository is open-source, enabling collaboration and contributions from the community. Users are encouraged to explore, fork, and adapt the projects to their own needs, as well as suggest improvements and share their own A/B testing projects.
+## Project #1: Mobile Games A/B Testing with Cookie Cats
+
+**Project Tasks**
+
+1. Of cats and cookies
+2. The AB-test data
+3. The distribution of game rounds
+4. Overall 1-day retention
+5. 1-day retention by AB-group
+6. Should we be confident in the difference?
+7. Zooming in on the difference
+8. The probability of a difference
+9. 7-day retention by AB-group
+10. Bootstrapping the difference again
+11. Conclusion
+
+View project [here]()!
+
